@@ -4,9 +4,10 @@ compatibility_flags = ["nodejs_compat"]
 pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
-GITHUB_CLIENT_ID = "Ov23liL7OxkPOOfPZW4K"
+GITHUB_ID = "Ov23liL7OxkPOOfPZW4K"
 GITHUB_OWNER = "moxinshi"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://navi.520333.best/api/auth"
 NEXT_PUBLIC_API_URL="https://navi.520333.best"
+
