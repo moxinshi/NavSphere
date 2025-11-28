@@ -421,14 +421,6 @@
               "description": "在线的JSON编辑器，包括格式化，可视化，对比，显示行号功能。",
               "icon": "/assets/images/logos/json.png",
               "enabled": true
-            },
-            {
-              "id": "3_5",
-              "title": "TinyPNG",
-              "href": "https://tinypng.com/",
-              "description": "在线图片压缩工具",
-              "icon": "/assets/images/logos/tinypng.png",
-              "enabled": true
             }
           ],
           "enabled": true
