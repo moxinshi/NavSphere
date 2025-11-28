@@ -6,7 +6,16 @@
       "icon": "FolderOpen",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1764315852040_710uplkjj",
+          "title": "谷歌",
+          "href": "Google",
+          "description": "伟大无需多言",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
