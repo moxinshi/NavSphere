@@ -22,6 +22,14 @@
           "description": "使用 Microsoft 必应进行搜索，并利用 AI 的强大功能查找信息、浏览网页、图像、视频、地图等。为永远充满好奇心的人提供的智能搜索引擎。",
           "icon": "/assets/favicon_1764315905467.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764315959576_uwo3do5dk",
+          "title": "百度一下，你就知道",
+          "href": "https://www.baidu.com/",
+          "description": "全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。",
+          "icon": "/assets/favicon_1764315947048.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
