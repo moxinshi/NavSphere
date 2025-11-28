@@ -464,6 +464,14 @@
       "items": [],
       "subCategories": [
         {
+          "id": "f708d269-7807-4322-b348-8ea70bdd2d69",
+          "title": "软件集合站",
+          "icon": "Building",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "8_1",
           "title": "图标素材",
           "href": "#图标素材",
@@ -485,14 +493,6 @@
           "href": "#平面素材",
           "icon": "",
           "description": "",
-          "items": []
-        },
-        {
-          "id": "f708d269-7807-4322-b348-8ea70bdd2d69",
-          "title": "软件集合站",
-          "icon": "Building",
-          "description": "",
-          "enabled": true,
           "items": []
         }
       ]
