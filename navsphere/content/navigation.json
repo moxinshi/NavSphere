@@ -106,6 +106,14 @@
           "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
           "icon": "/assets/images/logos/cloudflar.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1764316588302_w700twvzi",
+          "title": "GitHub ",
+          "href": "https://github.com/",
+          "description": "",
+          "icon": "/assets/favicon_1764316571329.png",
+          "enabled": true
         }
       ],
       "subCategories": []
