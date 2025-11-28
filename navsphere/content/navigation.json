@@ -114,6 +114,14 @@
           "description": "",
           "icon": "/assets/favicon_1764316571329.png",
           "enabled": true
+        },
+        {
+          "id": "site_1764316861800_fowd4j4jr",
+          "title": "ClawCloud爪云",
+          "href": "https://ap-southeast-1.run.claw.cloud/",
+          "description": "ClawCloud",
+          "icon": "/assets/favicon_1764316831677.png",
+          "enabled": true
         }
       ],
       "subCategories": []
