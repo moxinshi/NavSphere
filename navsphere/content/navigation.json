@@ -358,10 +358,10 @@
         },
         {
           "id": "1764316759427",
-          "title": "Twitter",
-          "href": "https://twitter.com",
-          "description": "访问 twitter.com",
-          "icon": "/assets/favicon_1764316763920.png",
+          "title": "X",
+          "href": "http://x.com/",
+          "description": "访问 x.com",
+          "icon": "/assets/img_1764320676578.png",
           "enabled": true
         }
       ],
