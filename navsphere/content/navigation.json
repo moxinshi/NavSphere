@@ -9,10 +9,10 @@
       "items": [
         {
           "id": "site_1764315852040_710uplkjj",
-          "title": "谷歌",
-          "href": "Google",
-          "description": "伟大无需多言",
-          "icon": "",
+          "title": "Google",
+          "href": "https://www.google.com",
+          "description": "访问 www.google.com",
+          "icon": "/assets/favicon_1764315875792.png",
           "enabled": true
         }
       ],
