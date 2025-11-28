@@ -85,6 +85,15 @@
       "enabled": true
     },
     {
+      "id": "1764316321751",
+      "title": "网络建站",
+      "icon": "Cloud",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1761724945457",
       "title": "媒体资讯",
       "icon": "Coffee",
@@ -573,15 +582,6 @@
           "items": []
         }
       ]
-    },
-    {
-      "id": "1764316321751",
-      "title": "网络建站",
-      "icon": "Cloud",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
