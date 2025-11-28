@@ -439,16 +439,7 @@
           "href": "#图形创意",
           "icon": "Folder",
           "description": "",
-          "items": [
-            {
-              "id": "4_1",
-              "title": "photoshop",
-              "href": "https://www.adobe.com/cn/products/photoshop.html",
-              "description": "Photoshop不需要解释",
-              "icon": "/assets/images/logos/photoshop.png",
-              "enabled": true
-            }
-          ],
+          "items": [],
           "enabled": true
         },
         {
