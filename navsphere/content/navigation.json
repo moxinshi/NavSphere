@@ -539,6 +539,15 @@
           "items": []
         }
       ]
+    },
+    {
+      "id": "1764315798088",
+      "title": "搜索引擎",
+      "icon": "FolderOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
