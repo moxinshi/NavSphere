@@ -47,6 +47,14 @@
               "description": "FOFA 是白帽汇推出的一款网络空间搜索引擎，它通过进行网络空间测绘，能够帮助研究人员或者企业迅速进行网络资产匹配，例如进行漏洞影响范围分析、应用分布统计、应用流行度排名统计等。",
               "icon": "/assets/favicon_1765263966778.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1765264028443_0n5f7rnto",
+              "title": "Censys",
+              "href": "https://search.censys.io/",
+              "description": "访问 search.censys.io",
+              "icon": "/assets/favicon_1765264010816.png",
+              "enabled": true
             }
           ]
         }
