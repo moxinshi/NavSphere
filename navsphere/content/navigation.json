@@ -55,6 +55,14 @@
               "description": "访问 search.censys.io",
               "icon": "/assets/favicon_1765264010816.png",
               "enabled": true
+            },
+            {
+              "id": "site_1765264060722_a60wib7kq",
+              "title": "Shodan Search Engine",
+              "href": "https://www.shodan.io/",
+              "description": "Search Engine for the Internet of Things",
+              "icon": "/assets/favicon_1765264050132.png",
+              "enabled": true
             }
           ]
         }
