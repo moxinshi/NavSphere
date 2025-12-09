@@ -32,7 +32,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "5a6a32d1-3a5c-49ce-b115-b46a862e233e",
+          "title": "网络空间搜索引擎",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",
