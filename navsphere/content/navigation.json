@@ -96,6 +96,14 @@
               "description": "全网最全的网盘搜索-聚合阿里云盘/夸克/百度网盘/115/迅雷等平台资源",
               "icon": "/assets/favicon_1765433256882.ico",
               "enabled": true
+            },
+            {
+              "id": "1765433307123",
+              "title": "CloudSaver",
+              "href": "https://cs.520333.best/",
+              "description": "网盘资源搜索工具",
+              "icon": "/assets/favicon_1765433319427.ico",
+              "enabled": true
             }
           ]
         },
