@@ -80,16 +80,7 @@
       "id": "1",
       "title": "网络资源站点",
       "icon": "Star",
-      "items": [
-        {
-          "id": "1741747111596",
-          "title": "PostSpark",
-          "href": "https://postspark.app/",
-          "description": "Beautiful Screenshots and Mockups\nCusomizable, eye-catching presentation for any content",
-          "icon": "/assets/img_1741747241014.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [],
       "description": "网络资源，用以搜索、转存网盘资源，下载磁力资源等",
       "enabled": true
