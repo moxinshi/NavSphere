@@ -81,7 +81,16 @@
       "title": "网络资源站点",
       "icon": "Star",
       "items": [],
-      "subCategories": [],
+      "subCategories": [
+        {
+          "id": "0239175f-7068-43c5-82d0-ad85a466efe6",
+          "title": "综合资源搜索",
+          "icon": "Files",
+          "description": "聚合搜索，网盘磁力等",
+          "enabled": true,
+          "items": []
+        }
+      ],
       "description": "网络资源，用以搜索、转存网盘资源，下载磁力资源等",
       "enabled": true
     },
