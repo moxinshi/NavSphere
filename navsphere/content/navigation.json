@@ -88,7 +88,16 @@
           "icon": "Files",
           "description": "聚合搜索，网盘磁力等",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1765433245229",
+              "title": "PanSou 盘搜",
+              "href": "https://ps.520333.best/",
+              "description": "全网最全的网盘搜索-聚合阿里云盘/夸克/百度网盘/115/迅雷等平台资源",
+              "icon": "/assets/favicon_1765433256882.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "12962fa7-4790-4cfb-b15c-ec81886a59c5",
