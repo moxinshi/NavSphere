@@ -89,6 +89,14 @@
           "description": "聚合搜索，网盘磁力等",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "12962fa7-4790-4cfb-b15c-ec81886a59c5",
+          "title": "天翼云盘资源",
+          "icon": "FileText",
+          "description": "电信天翼资源站",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "网络资源，用以搜索、转存网盘资源，下载磁力资源等",
