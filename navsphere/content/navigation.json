@@ -65,6 +65,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "f25e3263-ca31-4242-8f4e-a9f8a6860431",
+          "title": "传统搜索",
+          "icon": "Network",
+          "description": "传统搜索",
+          "enabled": true,
+          "items": []
         }
       ]
     },
