@@ -78,7 +78,7 @@
     },
     {
       "id": "1",
-      "title": "常用推荐",
+      "title": "网络资源站点",
       "icon": "Star",
       "items": [
         {
@@ -99,7 +99,7 @@
         }
       ],
       "subCategories": [],
-      "description": "",
+      "description": "网络资源，用以搜索、转存网盘资源，下载磁力资源等",
       "enabled": true
     },
     {
